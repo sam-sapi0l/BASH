@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CAMINHO_HOME=/home/kali
+CAMINHO_HOME=$HOME
 
 cd $CAMINHO_HOME
 if [ ! -d backup ]
